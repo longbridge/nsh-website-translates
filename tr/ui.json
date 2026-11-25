@@ -1,0 +1,16 @@
+{
+  "notice": "Bu sayfa makine ile çevrildi ve hata içerebilir.",
+  "fallback": "Bu sayfa henüz çevrilmedi.",
+  "original": "İngilizce aslını oku",
+  "prev": "Önceki",
+  "next": "Sonraki",
+  "toc": "Bu sayfada",
+  "Docs": "Belgeler",
+  "Elements": "Öğeler",
+  "Start here": "Başlarken",
+  "Platforms": "Platformlar",
+  "Delivery and security": "Dağıtım ve güvenlik",
+  "Building UI": "Arayüz oluşturma",
+  "Tools and internals": "Araçlar ve iç yapı",
+  "Primitives": "Temel öğeler"
+}
