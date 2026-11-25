@@ -9,5 +9,6 @@
   { "code": "ko", "name": "한국어" },
   { "code": "it", "name": "Italiano" },
   { "code": "ar", "name": "العربية", "dir": "rtl" },
-  { "code": "hi", "name": "हिन्दी" }
+  { "code": "hi", "name": "हिन्दी" },
+  { "code": "tr", "name": "Türkçe" }
 ]
